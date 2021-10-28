@@ -1,0 +1,4 @@
+1. https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2021025-eng.htm
+2. https://github.com/alifier/Restaurant_success_model
+3. https://en.wikipedia.org/wiki/Haversine_formula
+4. https://www.movable-type.co.uk/scripts/latlong.html
